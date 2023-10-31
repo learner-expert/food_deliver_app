@@ -4,13 +4,6 @@
 
 This project is about ordering online food from your local restaurants. 
 
-
-## Admin Dashboard
-
-To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
-
- **Admin credentials:** Username: **admin** Password: **1234**
-
 ## Technologies Used
 
 1. PHP
